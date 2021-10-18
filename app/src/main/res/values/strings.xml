@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CoinkApp</string>
+    <string name="title_activity_main">CoinkApp</string>
+    <string name="package_name">app.coink.register</string>
+    <string name="custom_url_scheme">app.coink.register</string>
+</resources>
